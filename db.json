@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "FirstName": "prasanth",
+      "LastName": "deva",
+      "email": "abc@gmail.com",
+      "mobile": "861238767",
+      "salary": "5000"
+    },
+    {
+      "id": 2,
+      "FirstName": "Prasanth",
+      "LastName": "deva18",
+      "email": "abcd@gmail.com",
+      "mobile": "6369492388",
+      "salary": "50000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "prasanth",
+      "email": "prasanth",
+      "mobile": "6369492388",
+      "password": "weereqwr",
+      "id": 1
+    },
+    {
+      "fullname": "prasanth",
+      "email": "pra@gmail.com",
+      "mobile": "97823787",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "fullname": "werwwere",
+      "email": "wefre",
+      "mobile": "erevc",
+      "password": "wfcdfe",
+      "id": 3
+    },
+    {
+      "fullname": "prasanth",
+      "email": "abc@gmail.com",
+      "mobile": "94457164352",
+      "password": "12",
+      "id": 4
+    },
+    {
+      "fullname": "prasanth",
+      "email": "abc@gmail.com",
+      "mobile": "6369492388",
+      "password": "12",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
